@@ -90,6 +90,57 @@ open index.html
 
 ---
 
+## 📈 Future Enhancements
+
+Planned improvements for upcoming versions:
+
+* ⌨ Add full **keyboard support**
+* 🧮 Include **scientific calculator functions**
+  (sin, cos, tan, log, sqrt, power, etc.)
+* 📱 Improve **mobile responsiveness**
+* 🌐 Multi-language support
+* 📊 Graph plotting mode
+* 🧪 Add **unit testing**
+* 📦 Convert into **Progressive Web App (PWA)**
+* ☁ Cloud sync for history
+* 🎨 Custom theme creator
+
+---
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+Follow these steps to contribute:
+
+1. **Fork** the repository
+2. Create a new branch
+
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes
+4. Commit your updates
+
+   ```bash
+   git commit -m "Add feature"
+   ```
+5. Push to your branch
+
+   ```bash
+   git push origin feature-name
+   ```
+6. Open a **Pull Request**
+
+### Contribution Guidelines
+
+* Keep code clean and readable
+* Follow existing coding style
+* Add comments where necessary
+* Test before submitting
+* Describe your changes clearly
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
